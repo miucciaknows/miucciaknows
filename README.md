@@ -4,5 +4,9 @@
 <br>
 📫 How to reach me 32164221@mackenzista.com.br or/and alternasthy@gmail.com
 <br>
-🐦 My twitter is @icameasmermaid and my instagram is @nathaliafranz_fotografie
+🐦 @icameasmermaid 
+<br>
+📷 @nathaliafranz_fotografie
+<br>
+🎵 Last.fm @its_nasthy
 
