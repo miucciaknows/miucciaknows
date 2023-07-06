@@ -1,4 +1,4 @@
-👋 Hi, I’m Nathalia Trazzi, or known by friends as Miuccia or Nasthy, Nat, Nathy, Nath and anything that can make my name short.
+👋 Hi, I’m Nathalia, or better known by friends and family as Miuccia or Nasthy, Nat, Nathy, Nath and anything that can make my name short.
 <br>
 <br>
 🎓 Photography (From Panamericana de Artes e Design)
