@@ -8,6 +8,9 @@
 🎓 Software Analysis and Development (From Universidade Presbiteriana Mackenzie), Information System (Currently on going @ Universidade Presbiteriana Mackenzie) 
 <br>
 <br>
+📔 I have one paper published: (Re) Learning fine motor hand movements with serious games @ 2022 XVII Latin American Conference on Learning Technologies (LACLO), Armenia, Colombia ❤️
+<br>
+<br>
 👀 I’m interested in C#, R, Python, Java, Swift and Javascript;
 <br>
 <br>
