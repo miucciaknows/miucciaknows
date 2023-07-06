@@ -12,6 +12,7 @@
 <br>
 <br>
 👀 I’m interested in C#, R, Python, Java, Swift and Javascript;
+📱 I know and love to talk a lot about Swift and Objective-C.
 <br>
 <br>
 📫 How to reach me 32164221@mackenzista.com.br or/and alternasthy@gmail.com
