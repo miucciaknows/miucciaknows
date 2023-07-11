@@ -3,7 +3,7 @@
 <br>
 🎓 Photography (From Panamericana de Artes e Design)
 <br>
-🎓 UCLA (Computer Science, approved)
+🎓 Computer Science (UCLA, approved)
 <br>
 🎓 Software Analysis and Development (From Universidade Presbiteriana Mackenzie), Information System (Currently on going @ Universidade Presbiteriana Mackenzie) 
 <br>
