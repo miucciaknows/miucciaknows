@@ -11,7 +11,7 @@
 📔 I have one paper published: (Re) Learning fine motor hand movements with serious games @ 2022 XVII Latin American Conference on Learning Technologies (LACLO), Armenia, Colombia ❤️
 <br>
 <br>
-🌱 C#, R, Python, Java, Swift and Javascript.
+🌱 C#, R, Python, Java, Swift, Javascript, Cloud computing
 <br>
 📱 I know and love to talk a lot about Swift and Objective-C.
 <br>
