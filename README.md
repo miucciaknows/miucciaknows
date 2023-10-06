@@ -2,6 +2,10 @@
 <br>
 🗣️ I speak: 🇧🇷, 🇺🇸/🏴󠁧󠁢󠁥󠁮󠁧󠁿 and 🇩🇪. Sometimes i try to understand 🇫🇷 and 🇮🇹.
 <br>
+⚡️I don't like dark themes, I use the Quiet Light theme in Visual Studio Code. I love talking about fashion history and bags. I'm huge fan of doctor who and music.
+<br>
+
+
 🎓 Photography (From Panamericana de Artes e Design)
 <br>
 🎓 Computer Science (UCLA, approved)
@@ -15,10 +19,7 @@
 <br>
 👩‍💻 Swift, Python, Java, Javascript 📱 I love Swift and Objective-C. (Not a SwiftUI fan tho) 🌱 C#, R, Cloud computing, AI.
 <br>
-⚡️I don't like dark themes, I use the Quiet Light theme in Visual Studio Code. I love talking about fashion history and bags. I'm huge fan of doctor who and music.
-<br>
 📫 How to reach me 32164221@mackenzista.com.br or/and alternasthy@gmail.com
-<br>
 <br>
 🐦 @icameasmermaid 📷 @nathaliafranz_fotografie 🎵 Last.fm @its_nasthy
 
