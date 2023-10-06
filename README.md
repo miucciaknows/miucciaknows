@@ -22,12 +22,6 @@
 <br>
 
 <br>
-
-<div>
-<a href="https://github.com/miucciaknows">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miucciaknows&layout=compact&langs_count=7&theme=swift"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=miucciaknows&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 <br>
 ⚡️I don't like dark themes, I use the Quiet Light theme in Visual Studio Code. 
   <br>
@@ -39,4 +33,11 @@
 <br>
 <br>
 🐦 @icameasmermaid 📷 @nathaliafranz_fotografie 🎵 Last.fm @its_nasthy
+
+<div>
+<a href="https://github.com/miucciaknows">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miucciaknows&layout=compact&langs_count=7&theme=swift"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=miucciaknows&show_icons=true&theme=I don't program using dark themes, I use the Quiet Light theme in Visual Studio Code.&include_all_commits=true&count_private=true"/>
+</div>
+
 
