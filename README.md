@@ -15,7 +15,7 @@
 <br>
 🌱 C#, R, Python, Java, Swift, Javascript, Cloud computing
 <br>
-📱 I know and love to talk a lot about Swift and Objective-C. (Not a SwiftUI fan)
+📱 I love to talk a lot about Swift and Objective-C. (Not a SwiftUI fan)
 <br>
 <br>
 📫 How to reach me 32164221@mackenzista.com.br or/and alternasthy@gmail.com
