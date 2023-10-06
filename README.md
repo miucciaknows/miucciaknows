@@ -1,4 +1,5 @@
 👋 Hi, I’m Nathalia, or better known by friends and family as Miuccia(Yes, i really like Miuccia Prada that much) or anything that can make my name short.
+<br>
 😄 Pronouns: She/Her
 <br>
 🗣️ I speak: 🇧🇷, 🇺🇸/🏴󠁧󠁢󠁥󠁮󠁧󠁿 and 🇩🇪. Sometimes i try to understand 🇫🇷 and 🇮🇹.
