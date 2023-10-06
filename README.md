@@ -15,11 +15,7 @@
 <br>
 👩‍💻 Swift, Python, Java, Javascript 📱 I love Swift and Objective-C. (Not a SwiftUI fan tho) 🌱 C#, R, Cloud computing, AI.
 <br>
-⚡️I don't like dark themes, I use the Quiet Light theme in Visual Studio Code. 
-  <br>
-  - I love talking about fashion history and bags. 
-  <br>
-  - I'm huge fan of doctor who fan music.
+⚡️I don't like dark themes, I use the Quiet Light theme in Visual Studio Code. I love talking about fashion history and bags. I'm huge fan of doctor who and music.
 <br>
 📫 How to reach me 32164221@mackenzista.com.br or/and alternasthy@gmail.com
 <br>
