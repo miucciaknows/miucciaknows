@@ -20,8 +20,6 @@
 <br>
 📱 I love Swift and Objective-C. (Not a SwiftUI fan tho)
 <br>
-
-<br>
 <br>
 ⚡️I don't like dark themes, I use the Quiet Light theme in Visual Studio Code. 
   <br>
