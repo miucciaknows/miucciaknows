@@ -5,7 +5,8 @@
 <br>
 🎓 Computer Science (UCLA, approved)
 <br>
-🎓 Software Analysis and Development (From Universidade Presbiteriana Mackenzie), 
+🎓 Software Analysis and Development (From Universidade Presbiteriana Mackenzie)
+<br>
 🎓 Information System (Currently on going @ Universidade Presbiteriana Mackenzie) 
 <br>
 <br>
