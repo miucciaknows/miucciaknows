@@ -21,7 +21,7 @@
 <br>
 📫 How to reach me 32164221@mackenzista.com.br or/and alternasthy@gmail.com
 <br>
-🐦 @icameasmermaid 📷 @nathaliafranz_fotografie 🎵 Last.fm @its_nasthy
+🐦 [@icameasmermaid](https://twitter.com/icameasmermaid) 📷 [@nathaliafranz_fotografie](https://www.instagram.com/nathaliafranz_fotografie/) 🎵 Last.fm [@its_nasthy](https://www.last.fm/user/Its_Nasthy)
 
 <div>
 <a href="https://github.com/miucciaknows">
