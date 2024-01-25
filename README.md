@@ -17,7 +17,7 @@
 📔 I have one paper published: (Re) Learning fine motor hand movements with serious games @ 2022 XVII Latin American Conference on Learning Technologies (LACLO), Armenia, Colombia ❤️
 <br>
 <br>
-👩‍💻 Swift, Python, Java, Javascript 📱 I love Swift and Objective-C. (Not a SwiftUI fan tho) 🌱 C#, R, Cloud computing, AI.
+👩‍💻 Swift, Python, Java, Javascript, Prompt Engineer, Machine Learning Cloud Computing and Generative AI  📱 I love Swift and Objective-C. (Not a SwiftUI fan tho) 🌱 C#, R, Cloud computing.
 <br>
 📫 How to reach me 32164221@mackenzista.com.br or/and alternasthy@gmail.com
 <br>
