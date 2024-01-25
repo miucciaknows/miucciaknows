@@ -1,6 +1,6 @@
-👋 Hi, I’m Nathalia, or better known by friends and family as Miuccia(Yes, i really like Miuccia Prada that much) or anything that can make my name short. 😄 Pronouns: She/Her
+👋 Hi, I’m Nathalia, or better knownas Miuccia or anything that can make my name short. Pronouns: She/Her
 <br>
-🗣️ I speak: 🇧🇷, 🇺🇸/🏴󠁧󠁢󠁥󠁮󠁧󠁿 and 🇩🇪. Sometimes i try to understand 🇫🇷 and 🇮🇹.
+🗣️ I can speak: 🇧🇷, 🇺🇸/🏴󠁧󠁢󠁥󠁮󠁧󠁿 and 🇩🇪. Sometimes i try to understand 🇫🇷 and 🇮🇹.
 <br>
 ⚡️I don't like dark themes, I use the Quiet Light theme in Visual Studio Code. I love talking about fashion history and bags. I'm huge fan of doctor who and music.
 <br>
