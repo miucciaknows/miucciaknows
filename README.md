@@ -1,4 +1,4 @@
-👋 Hi, I’m Nathalia, or better knownas Miuccia or anything that can make my name short. Pronouns: She/Her
+👋 Hi, I’m Nathalia, or better known as Miuccia or anything that can make my name short. Pronouns: She/Her
 <br>
 🗣️ I can speak: 🇧🇷, 🇺🇸/🏴󠁧󠁢󠁥󠁮󠁧󠁿 and 🇩🇪. Sometimes i try to understand 🇫🇷 and 🇮🇹.
 <br>
