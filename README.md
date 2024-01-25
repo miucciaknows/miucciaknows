@@ -12,7 +12,7 @@
 <br>
 🎓 Software Analysis and Development (From Universidade Presbiteriana Mackenzie)
 <br>
-🎓 Information System (Currently on going @ Universidade Presbiteriana Mackenzie) 
+🎓 Information System (From Universidade Presbiteriana Mackenzie) 
 <br>
 📔 I have one paper published: (Re) Learning fine motor hand movements with serious games @ 2022 XVII Latin American Conference on Learning Technologies (LACLO), Armenia, Colombia ❤️
 <br>
