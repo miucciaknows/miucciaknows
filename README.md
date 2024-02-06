@@ -11,7 +11,6 @@
 </div>
 ⚡️ I don't like dark themes, I use the Quiet Light theme in Visual Studio Code. I'm a fan of fashion, music, and Doctor Who. I also love astronomy, especially everything involving exoplanets and black holes
 <br>
-
 <div>
   <b> 🎓 Academic background </b>
   <br>
@@ -24,7 +23,6 @@
   - Information System (From Universidade Presbiteriana Mackenzie - Brazil) 
   <br>
 </div>
-
 📔 <b> Academic Publication </b>
 [(Re) Learning fine motor hand movements with serious games @ 2022 XVII Latin American Conference on Learning Technologies, LACLO, Armenia, Quindio, Colombia.](https://www.aminer.org/pub/63cc736290e50fcafdd36c04/re-learning-fine-motor-hand-movements-with-serious-games)
 
