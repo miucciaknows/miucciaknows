@@ -1,10 +1,15 @@
-👋 Hi, I’m Nathalia, but I also usually respond to Miuccia or to something that makes my name short
+👋 Hi. I'm Nathalia, but I also usually respond to Miuccia or to something that shortens my name.
 <img style="float: left; margin-right: 60px; width: 200px; height: auto;" src="https://i.ibb.co/Ry3ZPLV/avatar.png" alt="Avatar">
-
 Pronouns: She/Her
 <br>
-🗣️ I can speak: 🇧🇷, 🇺🇸/🏴󠁧󠁢󠁥󠁮󠁧󠁿 and 🇩🇪. Sometimes i try to understand 🇫🇷 and 🇮🇹.
+<div>
+<b> Languages that I speak: </b>
+
+🇧🇷, 🇺🇸/🏴󠁧󠁢󠁥󠁮󠁧󠁿 and 🇩🇪. 
+
+Sometimes i try to understand 🇫🇷 and 🇮🇹.
 <br>
+</div>
 ⚡️I don't like dark themes, I use the Quiet Light theme in Visual Studio Code. I love talking about fashion history and bags. I'm huge fan of doctor who and music.
 <br>
 
