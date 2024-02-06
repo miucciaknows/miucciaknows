@@ -27,6 +27,9 @@
 📔 <b> Academic Publication: </b>
 [(Re) Learning fine motor hand movements with serious games @ 2022 XVII Latin American Conference on Learning Technologies, LACLO, Armenia, Quindio, Colombia.](https://www.aminer.org/pub/63cc736290e50fcafdd36c04/re-learning-fine-motor-hand-movements-with-serious-games)
 
+☁️ <b> Cloud Skills: </b>
+[![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=IBM%20Cloud&logoColor=white)](https://cloud.ibm.com/) [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 👩‍💻 Swift, Python, Java, Javascript, Prompt Engineer, Machine Learning Cloud Computing and Generative AI  📱 I love Swift and Objective-C. (Not a SwiftUI fan tho) 🌱 C#, R, Cloud computing.
 <br>
