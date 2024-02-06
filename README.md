@@ -22,7 +22,7 @@ Sometimes i try to understand 🇫🇷 and 🇮🇹
 <br>
 - Information System (From Universidade Presbiteriana Mackenzie - Brazil) 
 <br>
-📔 [(Re) Learning fine motor hand movements with serious games @ 2022 XVII Latin American Conference on Learning Technologies (LACLO)](https://www.aminer.org/pub/63cc736290e50fcafdd36c04/re-learning-fine-motor-hand-movements-with-serious-games)
+📔 [(Re) Learning fine motor hand movements with serious games @ 2022 XVII Latin American Conference on Learning Technologies, LACLO](https://www.aminer.org/pub/63cc736290e50fcafdd36c04/re-learning-fine-motor-hand-movements-with-serious-games)
 <br>
 👩‍💻 Swift, Python, Java, Javascript, Prompt Engineer, Machine Learning Cloud Computing and Generative AI  📱 I love Swift and Objective-C. (Not a SwiftUI fan tho) 🌱 C#, R, Cloud computing.
 <br>
