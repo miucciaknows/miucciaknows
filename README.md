@@ -1,5 +1,7 @@
 👋 Hi. I'm Nathalia, but I also usually respond to Miuccia or to something that shortens my name.
-<img style="float: left; margin-right: 60px; width: 200px; height: auto;" src="https://i.ibb.co/Ry3ZPLV/avatar.png" alt="Avatar">
+<div style="text-align: center;">
+    <img style="display: inline-block; margin-right: auto; margin-left: auto; width: 200px; height: auto;" src="https://i.ibb.co/Ry3ZPLV/avatar.png" alt="Avatar">
+</div>
 Pronouns: She/Her
 <br>
 <div>
@@ -22,9 +24,7 @@ Sometimes i try to understand 🇫🇷 and 🇮🇹
 <br>
 - Information System (From Universidade Presbiteriana Mackenzie - Brazil) 
 <br>
-
-📔(Re) Learning fine motor hand movements with serious games @ 2022 XVII Latin American Conference on Learning Technologies, LACLO
-[Link](https://www.aminer.org/pub/63cc736290e50fcafdd36c04/re-learning-fine-motor-hand-movements-with-serious-games)
+📔 (Re) Learning fine motor hand movements with serious games @ 2022 XVII Latin American Conference on Learning Technologies, LACLO, Armenia (Colombia) (https://www.aminer.org/pub/63cc736290e50fcafdd36c04/re-learning-fine-motor-hand-movements-with-serious-games)
 <br>
 👩‍💻 Swift, Python, Java, Javascript, Prompt Engineer, Machine Learning Cloud Computing and Generative AI  📱 I love Swift and Objective-C. (Not a SwiftUI fan tho) 🌱 C#, R, Cloud computing.
 <br>
