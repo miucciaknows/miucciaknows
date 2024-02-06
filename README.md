@@ -3,8 +3,6 @@
 <p align="center">
   <img src="https://i.ibb.co/Ry3ZPLV/avatar.png" alt="Avatar" width="200">
 </p>
-Pronouns: She/Her
-<br>
 <div>
 <b> 🌐 Languages that I speak: </b>
 🇧🇷, 🇺🇸/🏴󠁧󠁢󠁥󠁮󠁧󠁿 and 🇩🇪. 
