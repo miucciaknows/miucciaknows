@@ -7,7 +7,7 @@ _Sometimes my last name may appear in some places with ss and in others with zz.
 </p>
 
 <b> 🌐 Languages that I speak: </b>  
-🇧🇷, 🇺🇸/🏴 and 🇩🇪.  
+🇧🇷, 🇺🇸/🇬🇧 and 🇩🇪.  
 Sometimes I try to understand 🇫🇷 and 🇮🇹.
 
 ⚡️ I don't like dark themes, I use the Quiet Light theme in Visual Studio Code. I'm a fan of fashion, music, and Doctor Who. I also love astronomy, especially everything involving exoplanets and black holes.
