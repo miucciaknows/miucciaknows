@@ -24,6 +24,7 @@
   <br>
 </div>
 📔 <b> Academic Publication </b>
+
 [(Re) Learning fine motor hand movements with serious games @ 2022 XVII Latin American Conference on Learning Technologies, LACLO, Armenia, Quindio, Colombia.](https://www.aminer.org/pub/63cc736290e50fcafdd36c04/re-learning-fine-motor-hand-movements-with-serious-games)
 
 <div> 
