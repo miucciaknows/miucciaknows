@@ -14,7 +14,7 @@
 
 <div>
   <b> 🎓 Academic background </b>
-  
+  <br>
   - Photography (From Panamericana de Artes e Design - Brazil)
   <br>
   - Computer Science (Accepted to UCLA - USA)
