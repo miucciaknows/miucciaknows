@@ -61,7 +61,9 @@ _Sometimes my last name may appear in some places with ss and in others with zz.
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/icameasmermaid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathalia-trazzi/) [![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/its_nasthy) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nathalia.trazzi/lists) [![Creedly](https://i.ibb.co/DgbDZ7K/creedly.png)](https://www.credly.com/users/nathalia-trazzi/badges)
 
 ## 🎵 What music I'm currently listening to   
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=gcr5a5hs0ypm1lsqud4n7iv7u&unique={true|1|on|yes}&background_color=ffffff)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=gcr5a5hs0ypm1lsqud4n7iv7u&count=4&background_color=ffffff)
+
 
 
 
