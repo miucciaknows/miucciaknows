@@ -35,11 +35,6 @@
 🐦 [@icameasmermaid](https://twitter.com/icameasmermaid) 🎵 Last.fm [@its_nasthy](https://www.last.fm/user/Its_Nasthy) 🌱 [Credly](https://www.credly.com/users/nathalia-trazzi/badges)
 
 
-<div>
-<a href="https://github.com/miucciaknows">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miucciaknows&layout=compact&langs_count=7&theme=swift"/>
-</div>
-
 🎵 <b> What music I'm currently listening to </b>
 
 <p align="center">
