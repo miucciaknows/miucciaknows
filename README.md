@@ -1,9 +1,10 @@
 👋 Hi 
 
 I’m Nathalia, but I also usually respond to Miuccia or something that makes my name short.
+<img style="float: left; margin-right: 50px; width: 100px; height: auto;" src="https://i.ibb.co/Ry3ZPLV/avatar.png" alt="Avatar">
+
 <br>
 Pronouns: She/Her
-<img style="float: left; margin-right: 20px;" src="https://i.ibb.co/Ry3ZPLV/avatar.png" alt="Avatar">
 <br>
 🗣️ I can speak: 🇧🇷, 🇺🇸/🏴󠁧󠁢󠁥󠁮󠁧󠁿 and 🇩🇪. Sometimes i try to understand 🇫🇷 and 🇮🇹.
 <br>
