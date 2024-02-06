@@ -9,6 +9,19 @@ Pronouns: She/Her
 ⚡️I don't like dark themes, I use the Quiet Light theme in Visual Studio Code. I love talking about fashion history and bags. I'm huge fan of doctor who and music.
 <br>
 
+<head>
+<title>Avatar</title>
+<style>
+  .right-avatar {
+    float: right;
+    margin-right: 20px; 
+  }
+</style>
+</head>
+
+<img class="right-avatar" src="https://i.ibb.co/Ry3ZPLV/avatar.png" alt="Avatar">
+
+![](https://i.ibb.co/Ry3ZPLV/avatar.png)
 
 🎓 Photography (From Panamericana de Artes e Design)
 <br>
@@ -34,5 +47,7 @@ Pronouns: She/Her
 <a href="https://github.com/miucciaknows">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miucciaknows&layout=compact&langs_count=7&theme=swift"/>
 </div>
+
+
 
 
