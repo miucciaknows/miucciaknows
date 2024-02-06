@@ -1,7 +1,6 @@
 👋 Hi. I'm Nathalia, but I also usually respond to Miuccia or to something that shortens my name.
-<div style="text-align: center;">
-    <img style="display: inline-block; margin-right: auto; margin-left: auto; width: 200px; height: auto;" src="https://i.ibb.co/Ry3ZPLV/avatar.png" alt="Avatar">
-</div>
+
+<img style="float: center; margin-right: 60px; width: 200px; height: auto;" src="https://i.ibb.co/Ry3ZPLV/avatar.png" alt="Avatar"> 
 Pronouns: She/Her
 <br>
 <div>
