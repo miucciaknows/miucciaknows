@@ -42,6 +42,6 @@
 
 🎵 <b> What music I'm currently listening to </b>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=gcr5a5hs0ypm1lsqud4n7iv7u&count=4)
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=gcr5a5hs0ypm1lsqud4n7iv7u&cover_image=false&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&bar_color=fcfffe&bar_color_cover=false)]]
 
 
