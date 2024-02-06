@@ -42,6 +42,11 @@
 
 🎵 <b> What music I'm currently listening to </b>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gcr5a5hs0ypm1lsqud4n7iv7u&cover_image=true&theme=default&show_offline=false&background_color=feffff&interchange=false&bar_color=ff89d8)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=gcr5a5hs0ypm1lsqud4n7iv7u&cover_image=true&theme=default&show_offline=false&background_color=feffff&interchange=true&bar_color=ff89d8&bar_color_cover=false" alt="Spotify Profile" />
+  </a>
+</p>
+
 
 
