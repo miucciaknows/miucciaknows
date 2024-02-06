@@ -4,31 +4,30 @@
   <img src="https://i.ibb.co/Ry3ZPLV/avatar.png" alt="Avatar" width="200">
 </p>
 <div>
-<b> 🌐 Languages that I speak: </b>
-🇧🇷, 🇺🇸/🏴󠁧󠁢󠁥󠁮󠁧󠁿 and 🇩🇪. 
-Sometimes i try to understand 🇫🇷 and 🇮🇹
-<br>
+  <b> 🌐 Languages that I speak: </b>
+  🇧🇷, 🇺🇸/🏴󠁧󠁢󠁥󠁮󠁧󠁿 and 🇩🇪. 
+  Sometimes i try to understand 🇫🇷 and 🇮🇹
+  <br>
 </div>
 ⚡️ I don't like dark themes, I use the Quiet Light theme in Visual Studio Code. I'm a fan of fashion, music, and Doctor Who. I also love astronomy, especially everything involving exoplanets and black holes
 <br>
 
 <div>
   <b> 🎓 Academic background </b>
+  - Photography (From Panamericana de Artes e Design - Brazil)
+  <br>
+  - Computer Science (Accepted to UCLA - USA)
+  <br>
+  - Software Analysis and Development (From Universidade Presbiteriana Mackenzie - Brazil)
+  <br>
+  - Information System (From Universidade Presbiteriana Mackenzie - Brazil) 
+  <br>
 </div>
-- Photography (From Panamericana de Artes e Design - Brazil)
-<br>
-- Computer Science (Accepted to UCLA - USA)
-<br>
-- Software Analysis and Development (From Universidade Presbiteriana Mackenzie - Brazil)
-<br>
-- Information System (From Universidade Presbiteriana Mackenzie - Brazil) 
-<br>
 
 📔 <b> Academic Publication: </b>
 [(Re) Learning fine motor hand movements with serious games @ 2022 XVII Latin American Conference on Learning Technologies, LACLO, Armenia, Quindio, Colombia.](https://www.aminer.org/pub/63cc736290e50fcafdd36c04/re-learning-fine-motor-hand-movements-with-serious-games)
 
 
-<br>
 👩‍💻 Swift, Python, Java, Javascript, Prompt Engineer, Machine Learning Cloud Computing and Generative AI  📱 I love Swift and Objective-C. (Not a SwiftUI fan tho) 🌱 C#, R, Cloud computing.
 <br>
 📫 How to reach me 32164221@mackenzista.com.br or/and alternasthy@gmail.com
@@ -44,7 +43,5 @@ Sometimes i try to understand 🇫🇷 and 🇮🇹
 🎵 <b> What music I'm currently listening to </b>
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=gcr5a5hs0ypm1lsqud4n7iv7u&count=4)
-
-
 
 
