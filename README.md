@@ -1,4 +1,8 @@
-👋 Hi, I’m Nathalia, or better known as Miuccia or anything that can make my name short. Pronouns: She/Her
+👋 Hi 
+
+I’m Nathalia, but I also usually respond to Miuccia or something that makes my name short.
+<br>
+Pronouns: She/Her
 <br>
 🗣️ I can speak: 🇧🇷, 🇺🇸/🏴󠁧󠁢󠁥󠁮󠁧󠁿 and 🇩🇪. Sometimes i try to understand 🇫🇷 and 🇮🇹.
 <br>
@@ -22,6 +26,9 @@
 📫 How to reach me 32164221@mackenzista.com.br or/and alternasthy@gmail.com
 <br>
 🐦 [@icameasmermaid](https://twitter.com/icameasmermaid) 🎵 Last.fm [@its_nasthy](https://www.last.fm/user/Its_Nasthy) 🌱 [Credly](https://www.credly.com/users/nathalia-trazzi/badges)
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=gcr5a5hs0ypm1lsqud4n7iv7u)
 
 <div>
 <a href="https://github.com/miucciaknows">
