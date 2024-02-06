@@ -30,7 +30,8 @@ _Sometimes my last name may appear in some places with SS and in others with ZZ.
 [(Re) Learning fine motor hand movements with serious games @ 2022 XVII Latin American Conference on Learning Technologies, LACLO, Armenia, Quindio, Colombia.](https://www.aminer.org/pub/63cc736290e50fcafdd36c04/re-learning-fine-motor-hand-movements-with-serious-games)
 
 <div> 
-☁️ <b> Cloud Skills </b>
+  
+## ☁️ Cloud Skills
   
   ![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=IBM%20Cloud&logoColor=white)
   ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -38,21 +39,24 @@ _Sometimes my last name may appear in some places with SS and in others with ZZ.
 </div>
 
 <div>
-  👩‍💻 <b> Programming skills and others </b>
+  
+  ## 👩‍💻 Programming skills and others 
   
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![NodeRed](https://img.shields.io/badge/Node--Red-8F0000?style=for-the-badge&logo=nodered&logoColor=white) ![Objective-C](https://img.shields.io/badge/Objective--C-438eff?style=for-the-badge&logo=objc&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 
 </div>
 <div>
-📊 <b> Data Skills </b>
+  
+## 📊 Data Skills 
   
 ![DBeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white) ![Elastic Search](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) ![IBM Db2](https://img.shields.io/badge/IBM%20Db2-057CDB?style=for-the-badge&logo=ibm&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
 <div>
-<b> Frameworks & Libraries Skills </b>
+  
+## Frameworks & Libraries Skills 
   
 ### Backend:
 
@@ -65,7 +69,7 @@ _Sometimes my last name may appear in some places with SS and in others with ZZ.
 
 ### Mobile:
 
-[CocoaPods](https://img.shields.io/badge/cocoapods-FA2A02?style=for-the-badge&logo=cocoapods&logoColor=white)
+![CocoaPods](https://img.shields.io/badge/cocoapods-FA2A02?style=for-the-badge&logo=cocoapods&logoColor=white)
 
 
 ### DevOps/Other Tools:
@@ -82,41 +86,47 @@ _Sometimes my last name may appear in some places with SS and in others with ZZ.
 </div>
 
 <div>
-  <b> Office Skills </b>
+  
+  ## Office Skills 
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) ![Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 </div>
 
 <div>
-  <b> 🎨 Design Skills </b>
+  
+  ## 🎨 Design Skills 
+  
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 <div>
-  💻 <b> OS </b>
+  
+  ## 💻 OS 
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 </div>
 
 <div>
-  <b> 💻 Virtualization </b>
+  
+  ##  💻 Virtualization </b>
 
   ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 
 </div>
 
 <div>
-<b> 📫 How to find me </b>
+  
+##  📫 How to find me </b>
   
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/icameasmermaid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathalia-trazzi/) [![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/its_nasthy) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nathalia.trazzi/lists) [![Creedly](https://i.ibb.co/DgbDZ7K/creedly.png)](https://www.credly.com/users/nathalia-trazzi/badges)
 
 
 </div>
 
-🎵 <b> What music I'm currently listening to </b>
+## 🎵 What music I'm currently listening to 
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
