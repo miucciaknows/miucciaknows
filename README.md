@@ -14,14 +14,12 @@ Pronouns: She/Her
 <style>
   .right-avatar {
     float: right;
-    margin-right: 20px; 
+    margin-right: 5px; 
   }
 </style>
 </head>
 
 <img class="right-avatar" src="https://i.ibb.co/Ry3ZPLV/avatar.png" alt="Avatar">
-
-![](https://i.ibb.co/Ry3ZPLV/avatar.png)
 
 🎓 Photography (From Panamericana de Artes e Design)
 <br>
