@@ -3,27 +3,26 @@
 Pronouns: She/Her
 <br>
 <div>
-<b> Languages that I speak: </b>
-
+<b> 🌐 Languages that I speak: </b>
 🇧🇷, 🇺🇸/🏴󠁧󠁢󠁥󠁮󠁧󠁿 and 🇩🇪. 
-
-Sometimes i try to understand 🇫🇷 and 🇮🇹.
+Sometimes i try to understand 🇫🇷 and 🇮🇹
 <br>
 </div>
-⚡️I don't like dark themes, I use the Quiet Light theme in Visual Studio Code. I love talking about fashion history and bags. I'm huge fan of doctor who and music.
+⚡️ I don't like dark themes, I use the Quiet Light theme in Visual Studio Code. I'm a fan of fashion, music, and Doctor Who. I also love astronomy, especially everything involving exoplanets and black holes
 <br>
 
-
-🎓 Photography (From Panamericana de Artes e Design)
+<div>
+  <b> 🎓 Academic background </b>
+</div>
+- Photography (From Panamericana de Artes e Design - Brazil)
 <br>
-🎓 Computer Science (UCLA, approved)
+- Computer Science (Accepted to UCLA - USA)
 <br>
-🎓 Software Analysis and Development (From Universidade Presbiteriana Mackenzie)
+- Software Analysis and Development (From Universidade Presbiteriana Mackenzie - Brazil)
 <br>
-🎓 Information System (From Universidade Presbiteriana Mackenzie) 
+- Information System (From Universidade Presbiteriana Mackenzie - Brazil) 
 <br>
-📔 I have one paper published: (Re) Learning fine motor hand movements with serious games @ 2022 XVII Latin American Conference on Learning Technologies (LACLO), Armenia, Colombia ❤️
-<br>
+📔 [(Re) Learning fine motor hand movements with serious games @ 2022 XVII Latin American Conference on Learning Technologies (LACLO)](https://www.aminer.org/pub/63cc736290e50fcafdd36c04/re-learning-fine-motor-hand-movements-with-serious-games)
 <br>
 👩‍💻 Swift, Python, Java, Javascript, Prompt Engineer, Machine Learning Cloud Computing and Generative AI  📱 I love Swift and Objective-C. (Not a SwiftUI fan tho) 🌱 C#, R, Cloud computing.
 <br>
